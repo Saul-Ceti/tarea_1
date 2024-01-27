@@ -1,16 +1,28 @@
-# tarea_1
+# Tarea 1 - Conociendo los Scaffold y widgets más comunes
 
-A new Flutter project.
+## Tarea 1 - Flutter
 
-## Getting Started
+- Widgets comunes
+- Margin y Padding
+- Herencias
+- Funciones
 
-This project is a starting point for a Flutter application.
+### Lo que me costó más trabajo
 
-A few resources to get you started if this is your first Flutter project:
+Lo que más consumió mi tiempo fue la parte de la herencia, utilizar los children correctamente, ya que a veces no entraban en los contenedores o se iban a otra parte mis componentes. Otro aspecto que se me hizo muy complicado fue hacer que el contenedor no tomara el tamaño de toda la pantalla, sino que se ajustara a los componentes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Lo que aprendí
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Familiarizarme con las herencias en el frontend
+- Familiarizarme con la documentación de Flutter
+- Utilizar el emulador de Android Studio
+
+### Screenshots
+
+### Link al video de demostración
+
+[Enlace video](https://youtu.be/1gLVyshXhIs)
+
+### Referencias
+
+[Documentación Flutter](https://docs.flutter.dev/ui/widgets/basics)
