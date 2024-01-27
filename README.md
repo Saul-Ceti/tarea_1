@@ -19,6 +19,8 @@ Lo que más consumió mi tiempo fue la parte de la herencia, utilizar los childr
 
 ### Screenshots
 
+<img width="241" alt="2024-01-26_22h41_38" src="https://github.com/Saul-Ceti/tarea_1/assets/102005888/2746f375-df9c-4621-bfc7-b88fdaf51ca2">
+
 ### Link al video de demostración
 
 [Enlace video](https://youtu.be/1gLVyshXhIs)
